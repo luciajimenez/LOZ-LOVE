@@ -1,12 +1,13 @@
 body {
-	background: #bfe;
+	background: #4da465;
 	font-family: Helvetica, Arial, sans-serif;
 }
 main {
 	background: #eee;
 	width: 640px;
-	margin: 0 auto;
+	margin: 20px auto;
 	padding: 10px 30px;
+	border: 1px solid #000;
 }
 
 .test {
